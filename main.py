@@ -1,6 +1,4 @@
 """
-Social Media Content Analyzer
------------------------------
 Entry point to execute the analytics pipeline.
 """
 

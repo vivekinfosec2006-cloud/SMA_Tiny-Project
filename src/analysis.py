@@ -1,6 +1,4 @@
 """
-Social Media Content Analyzer (Source Module)
----------------------------------------------
 Clean, straightforward data analysis workflow.
 """
 

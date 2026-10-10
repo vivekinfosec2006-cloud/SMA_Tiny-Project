@@ -1,6 +1,4 @@
 """
-Social Media Content Analyzer
------------------------------
 A simple, easy-to-understand Python script to analyze social media engagement
 across different content types (Reel, Video, Image, Text) and platforms.
 """

@@ -1,6 +1,5 @@
 """
-Social Media Content Analyzer — Interactive Dashboard
------------------------------------------------------
+
 A clean, modern, and easy-to-use web dashboard to analyze social media
 engagement across platforms and content formats.
 """
